@@ -50,4 +50,6 @@ Step 6: Test Your Algorithm
 * The model could use some improvements on its ability to classify pictures with noise. This is probably due to the images it was trained on.
 
 ### Medium Blog Post 
-You can find my medium blog here: https://medium.com/@samratnilesh098/dog-breed-classifier-using-cnn-63633b956525
+You can find my medium blog here:<a href="https://medium.com/@samratnilesh098/dog-breed-classifier-using-cnn-63633b956525">Medium Blog link</a>
+
+ 
